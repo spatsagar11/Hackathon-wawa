@@ -1,0 +1,9 @@
+{
+    "status": "OK",
+    "message": "Successfully loggedin",
+    "payload": {
+        "firstLogin": false,
+        "name": "Sagar Patel",
+        "authorities": []
+    }
+}

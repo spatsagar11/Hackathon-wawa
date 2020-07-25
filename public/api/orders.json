@@ -1,0 +1,78 @@
+{
+    "status": "OK",
+    "message": "Successfully retrived order",
+    "payload": [
+        {
+            "itemDesc": "Veg Pizza",
+            "orderedQty": 2,
+            "orderNo": "10000001",
+            "itemID": "15072019112"
+        },
+        {
+            "itemDesc": "NonVeg Pizza",
+            "orderedQty": 1,
+            "orderNo": "10000001",
+            "itemID": "8787871010"
+        },
+        {
+            "itemDesc": "Veg Burger",
+            "orderedQty": 3,
+            "orderNo": "10000001",
+            "itemID": "8787871011"
+        },
+        {
+            "itemDesc": "Mayo Sandwich",
+            "orderedQty": 1,
+            "orderNo": "10000001",
+            "itemID": "8787871013"
+        },
+        {
+            "itemDesc": "Veg Burger",
+            "orderedQty": 1,
+            "orderNo": "10000001",
+            "itemID": "8787871014"
+        },
+        {
+            "itemDesc": "Mayo Sandwich",
+            "orderedQty": 1,
+            "orderNo": "10000002",
+            "itemID": "8787871015"
+        },
+        {
+            "itemDesc": "NonVeg Pizza",
+            "orderedQty": 1,
+            "orderNo": "10000002",
+            "itemID": "8787871018"
+        },
+        {
+            "itemDesc": "Soda",
+            "orderedQty": 1,
+            "orderNo": "10000002",
+            "itemID": "15072019105"
+        },
+        {
+            "itemDesc": "NonVeg Pizza",
+            "orderedQty": 1,
+            "orderNo": "10000002",
+            "itemID": "8787871010"
+        },
+        {
+            "itemDesc": "Veg Pizza",
+            "orderedQty": 3,
+            "orderNo": "10000002",
+            "itemID": "8787871011"
+        },
+        {
+            "itemDesc": "Mayo Sandwich",
+            "orderedQty": 1,
+            "orderNo": "10000002",
+            "itemID": "8787871013"
+        },
+        {
+            "itemDesc": "Soda",
+            "orderedQty": 1,
+            "orderNo": "10000002",
+            "itemID": "8787871014"
+        }
+    ]
+}
